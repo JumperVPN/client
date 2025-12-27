@@ -1,4 +1,4 @@
-# 🚀 JumperVPN，一键闪连！
+# 🚀 JumperVPN，一键闪连！https://jumpervpn.com
 支持 Mac, Windows, iOS, Android, iPad 以及其他多种平台
 
 体验真正的互联网自由。JumperVPN 提供安全、快速、便捷的全球内容访问。无论您是观看流媒体、玩游戏还是浏览网页，只需单击一下，即可进入无限可能的世界。
